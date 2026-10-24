@@ -1,4 +1,4 @@
-<img width="1470" height="956" alt="Screenshot 2026-10-24 at 1 50 35 PM" src="https://github.com/user-attachments/assets/a306a399-b578-4e55-a6dd-f9903a826440" />**# 🐍 Collection Manipulator
+**# 🐍 Collection Manipulator
 
 ### A Python Project for Managing and Manipulating Collections
 
